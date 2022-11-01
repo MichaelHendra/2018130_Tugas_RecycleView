@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cuaca</string>
+    <string-array name="cuaca">
+        <item>Cerah</item>
+        <item>Berawam</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+    <item>Cuaca Sangat Cerah</item>
+    <item>Cuaca Berawan Hitam</item>
+    </string-array>
+</resources>
